@@ -1,0 +1,11 @@
+{
+  "id": "customer-desk",
+  "kind": "order",
+  "title": "Customer Desk",
+  "tagline": "See the people behind every order.",
+  "description": "Turn purchase history into a clearer picture of your customers and their relationship with your business.",
+  "eyebrow": "CUSTOMER INTELLIGENCE",
+  "collection": "Orders",
+  "webPort": 5185,
+  "apiPort": 8105
+}
